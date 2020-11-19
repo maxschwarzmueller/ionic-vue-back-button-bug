@@ -1,0 +1,7 @@
+{
+  "name": "ionic-vue-back-button-bug",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
